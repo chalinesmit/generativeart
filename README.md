@@ -37,9 +37,19 @@ Vroeger als kind konden we ons uren vermaken met alleen maar een pen en een papi
 UITLEG
 Ik heb met code in P5.js lijnen gemaakt die verschillende geometrische vormen aannemen, in verschillende kleuren. Deze vormen en kleuren moeten onze gedachtes weergeven. Ik heb ervoor gezorgd dat elke keer wanneer de pagina opnieuw geladen wordt, er een nieuwe geometrische vorm getekend wordt. Aan deze code heb ik 2 inputs toegevoegd, mouseClicked en mousePressed. 
 
-mouseClicked
-Wanneer een gebruiker met zijn muis op het kunstwerk klikt, komen er random strepen in het kunstwerk.
+VERANDERINGEN HERKANSING :
 
-mousePressed
-Wanneer een gebruiker met zijn muis op het kunstwerk sleept, komen er random strepen in het kunstwerk.
+2 verschillende spirografen, verschillen van positie, vorm en kleur.
+
+3 Functies zoals:
+
+keyPressed
+Wanneer een gebruiker op een toets van het toetsenbord drukt, zullen er random strepen in de schaduwspirograaf tevoorschijn komen.
+
+mouseDragged
+Wanneer een gebruiker met zijn muis op het kunstwerk sleept, komen er 2 cirkels tevoorschijn en random strepen.
+
+doubleClicked
+Wanneer een gebruiker met zijn muis dubbel klikt op het kunstwerk, wordt het kunstwerk groter.
+
 
